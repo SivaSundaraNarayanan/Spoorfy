@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "108390097581",
+    "project_id": "spoorfy",
+    "storage_bucket": "spoorfy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108390097581:android:a4e135073b5ad5315e5c24",
+        "android_client_info": {
+          "package_name": "com.example.spoorfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108390097581-ueoe9h18hr7r2koe37g67el9fdbh3bnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spoorfy",
+            "certificate_hash": "d924b297b4be85fe80b13a4f43e0eb0ecdbba260"
+          }
+        },
+        {
+          "client_id": "108390097581-989vtarh2a6nfoenan9mdvh34i9rjgtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7KBpTK4BFfZ_HHsvNT9HrrM0w1ecn4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108390097581-989vtarh2a6nfoenan9mdvh34i9rjgtm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "108390097581-6a98lc1hkotqlhk247gh23rjogulploi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spoorfy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
